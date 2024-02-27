@@ -1,0 +1,8 @@
+C:\Users\irfan\source\repos\WindowsService5\WindowsService5\bin\Debug\WindowsService5.exe.config
+C:\Users\irfan\source\repos\WindowsService5\WindowsService5\bin\Debug\WindowsService5.exe
+C:\Users\irfan\source\repos\WindowsService5\WindowsService5\bin\Debug\WindowsService5.pdb
+C:\Users\irfan\source\repos\WindowsService5\WindowsService5\obj\Debug\WindowsService5.ProjectInstaller.resources
+C:\Users\irfan\source\repos\WindowsService5\WindowsService5\obj\Debug\WindowsService5.csproj.GenerateResource.cache
+C:\Users\irfan\source\repos\WindowsService5\WindowsService5\obj\Debug\WindowsService5.csproj.CoreCompileInputs.cache
+C:\Users\irfan\source\repos\WindowsService5\WindowsService5\obj\Debug\WindowsService5.exe
+C:\Users\irfan\source\repos\WindowsService5\WindowsService5\obj\Debug\WindowsService5.pdb
